@@ -1,1 +1,2 @@
 sentence changed in new added in middle branch
+new sentence added in new branch
